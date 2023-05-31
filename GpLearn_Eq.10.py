@@ -267,7 +267,7 @@ print('Root Mean Squared Error - GpLearn Eq.10: %.2f' % RMSE_gplearn_alldata)
 # least squares polynomial fit 
 plt.figure(6)
 plt.plot(data ['η'], gplearn_eq10, '*k')
-plt.xlim(0, 2.0), plt.ylim(0, 2.0)
+plt.xlim(0, 1.6), plt.ylim(0, 1.6)
 plt.xlabel ('Measured Wave Setup (m)'); plt.ylabel ('Predicted Wave Setup (m) - Eq.10')
 
 # best fit line (1:1)
