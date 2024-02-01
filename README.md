@@ -5,5 +5,4 @@ The GpLearn model parameters can be changed according to its [documentation](htt
 
 
 ## Reference
-Dalinghaus, C., Coco, G., and Higuera, P.: A predictive equation for wave setup using genetic programming, Nat. Hazards Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/nhess-2022-221, in review, 2022.
-
+Dalinghaus, C., Coco, G., and Higuera, P.: A predictive equation for wave setup using genetic programming, Nat. Hazards Earth Syst. Sci., 23, 2157–2169, https://doi.org/10.5194/nhess-23-2157-2023, 2023.
